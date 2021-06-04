@@ -1,0 +1,38 @@
+body{
+    background: hsl(233, 47%, 7%);
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Inter',sans-serif;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Inter',sans-serif;
+    font-weight: 400;
+    font-weight: bold;
+}
+p{
+    font-family: 'Lexend Deca',sans-serif;
+    font-weight: 400;
+}
+span{
+    color: hsl(277, 64%, 61%);
+}
+
+.main-paragraph{
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+.stat-headings{
+    color: hsla(0, 0%, 100%, 0.6);
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.header-desktop-img{
+    width: 20%;
+    position: absolute;
+    right: 40px;
+}
