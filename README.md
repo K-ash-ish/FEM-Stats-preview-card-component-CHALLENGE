@@ -45,6 +45,6 @@ DESIRED OUTPUT
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@K-ash-ish](https://www.frontendmentor.io/profile/K-ash-ish)
+- Twitter - [@Kashish90879490](https://twitter.com/Kashish90879490)
 
