@@ -31,7 +31,7 @@ DESIRED OUTPUT
 ### Links
 
 - Solution URL: [Add solution URL here](Incomplete)
-- Live Site URL: [Add live site URL here](https://k-ash-ish.github.io/FEM-Stats-preview-card-component-CHALLENGE/)
+- Live Site URL: [https://k-ash-ish.github.io/FEM-Stats-preview-card-component-CHALLENGE/]
 
 ## My process
 
